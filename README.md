@@ -1,4 +1,3 @@
-
 CE_Soldering_Practice
 =====================
 
@@ -18,4 +17,5 @@ Design Requirements
 1. A part with a large power pad (can be combined with one of the other listed parts)
 
 
+Click image to enlarge
 ![](https://raw2.github.com/tsaavik/CE_Soldering_Practice/master/Solder-board-schematic.jpg)
